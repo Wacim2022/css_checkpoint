@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(0, 221, 255);
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.box{
+    background-color: red;
+    width: 300px; 
+    border-radius: 50px;
+    margin-left: 150px;
+    margin-top: 50px;
+    
+}
+.box h3, .box h6{
+    padding-left: 20px;
+    
+}
+.taswira:hover{
+    transform:rotate(30deg)
+}
+footer{
+    background-color: darkblue;
+}
+.logos{
+    display:contents;
+    justify-content: space-between;
+    margin: 90px;
+   
+
+}
+h3{
+    color: red;
+    font-family: verdana;
+}

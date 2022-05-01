@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(94, 88, 99);
+
+}
+fieldset{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+nav{
+    color:black;
+    display: flex;
+    justify-content: space-between;
+}
+.taswira:hover{
+    transform:rotate(30deg) ;
+}
+footer{
+    background-color: rgb(38, 0, 255);
+   
+     display:block;
+    margin-top: 100px;
+}
